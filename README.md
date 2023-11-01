@@ -1,7 +1,7 @@
- ## Hello Word!
+ ## Hello World!
   - 22 anos 
-  - Estudante de Analise e Desenvolvimento de Sistemas
-  - Interesse na área Back-end developer
+  - Estudante de Análise e Desenvolvimento de Sistemas
+  - Estudando: Logíca de progamação e C#
 
     ![opening-pc](https://github.com/Kalirensz/Kalirensz/assets/100230894/a5c78cda-2aaa-46d2-b944-8346558a050c)
 
