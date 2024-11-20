@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f26838f-ee47-4a74-bf97-b1fb128f2688)<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <img src="https://i.pinimg.com/736x/74/11/c7/7411c7b6c5b322885ba814834feaec6d.jpg" 
