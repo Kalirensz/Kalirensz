@@ -20,10 +20,12 @@
     - C#
     - C++
     - Phyton
+    -JavaScript
 
  Ferramentas:
     - Termnal: Powershell / Linux
     - Docker
+    - NPM
     
 </pre>
     </td>
