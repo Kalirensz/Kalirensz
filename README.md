@@ -1,7 +1,7 @@
-<table style="width: 100%; table-layout: fixed;">
+![image](https://github.com/user-attachments/assets/8f26838f-ee47-4a74-bf97-b1fb128f2688)<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://i.pinimg.com/736x/21/2b/b3/212bb3d1a4381843673908d775e2823d.jpg" 
+      <img src="https://i.pinimg.com/736x/74/11/c7/7411c7b6c5b322885ba814834feaec6d.jpg" 
         alt="Imagem artística" 
            style="max-width: 100%; height: auto; display: block; margin: auto;">
     </td>
