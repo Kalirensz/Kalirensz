@@ -13,8 +13,8 @@
 "Nesse mundo loucamente programável toda condição tem um fim.”
 
  Aprendendo agora:
-    - Inteligência Artificial
-    - Cybersecurity: Red Team 
+    - C# & Phyton
+    - Cibersegurança
 
  Linguagens:
     - C#
