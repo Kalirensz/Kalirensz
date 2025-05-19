@@ -20,7 +20,7 @@
     - C#
     - C++
     - Phyton
-    - JavaScript
+    - Java
 
  Ferramentas:
     - Termnal: Powershell / Linux
