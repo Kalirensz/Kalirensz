@@ -1,7 +1,7 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://i.pinimg.com/736x/5d/11/68/5d1168f31ecbc9561d1047a56d78ea83.jpg" 
+      <img src="https://i.pinimg.com/736x/b9/7e/c5/b97ec520baa2a10bf366ca34403a6bb2.jpg" 
         alt="Imagem artística" 
            style="max-width: 100%; height: auto; display: block; margin: auto;">
     </td>
