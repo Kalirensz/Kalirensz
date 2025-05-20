@@ -1,34 +1,35 @@
-<table style="width: 100%; table-layout: fixed;">
+<table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="https://i.pinimg.com/736x/b9/7e/c5/b97ec520baa2a10bf366ca34403a6bb2.jpg" 
-        alt="Imagem artística" 
-           style="max-width: 100%; height: auto; display: block; margin: auto;">
+    <td width="50%">
+      <img src="https://i.pinimg.com/736x/b9/7e/c5/b97ec520baa2a10bf366ca34403a6bb2.jpg" alt="Imagem artística" style="width:100%;">
     </td>
-    <td style="width: 50%; vertical-align: top; text-align: left; padding-left: 20px; padding-top: 10px;">
-      <pre style="font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.6; color: #e0e0e0;">
+    <td>
 
-  Olá Mundo!
--------------------------------------------------------------------------
-"Nesse mundo loucamente programável toda condição tem um fim.”
+<p><strong>Olá Mundo!</strong></p>
 
- Aprendendo agora:
-    - C# & Phyton
-    - Cibersegurança
-
- Linguagens:
-    - C#
-    - C++
-    - Phyton
-    - Java
-
- Ferramentas:
-    - Termnal: Powershell / Linux
-    - Docker
-    - NPM
-    
+<pre>
+"Nesse mundo loucamente programável toda condição tem um fim."
 </pre>
-    </td>
+
+<p><strong>Aprendendo agora:</strong></p>
+
+- C# & Python  
+- Cibersegurança  
+
+<p><strong>Linguagens:</strong></p>
+
+- C#  
+- C++  
+- Python  
+- Java  
+
+<p><strong>Ferramentas:</strong></p>
+
+- Terminal: PowerShell / Linux  
+- Docker  
+- NPM  
+
+   </td>
   </tr>
 </table>
 
